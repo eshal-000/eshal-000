@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full Stack Web Developer & Web Designer** focused on creating modern, responsive, and scalable web experiences — from visually engaging interfaces to reliable backend systems.
+I'm a **Full Stack Web Developer & Web Designer** focused on creating modern, responsive, and scalable web experiences from visually engaging interfaces to reliable backend systems.
 
 - 🎨 I design **clean, modern, and user-focused web interfaces** with attention to layout, typography, responsiveness, and overall visual experience.
 - 🚀 I develop **complete web applications**, turning ideas and designs into functional, well-structured digital experiences.

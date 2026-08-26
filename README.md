@@ -73,3 +73,53 @@ I'm a **Full Stack Web Developer & Web Designer** focused on creating modern, re
 </p>
 
 
+## 🐍 Watch My Contributions Come Alive
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/eshal-000/eshal-000/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+
+## 🤝 Let’s Create Something Remarkable
+
+<p>
+  <a href="https://www.linkedin.com/in/eshal-noor-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:eshaldeveloper3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-D9A6A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>
+  💼 Open to <b>remote opportunities, freelance projects & collaborations.</b><br>
+  ✨ Have an idea in mind? Let's turn it into a polished web experience.
+</p>
+
+
+<br>
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=eshal-000&label=PROFILE+VIEWS&color=D9A6A1&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+
+<br>
+
+<p align="center">
+  <i>✨ Designing with purpose. Developing with passion. Building experiences that matter.</i>
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by! 🖤</b>
+</p>
